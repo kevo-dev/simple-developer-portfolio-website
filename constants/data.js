@@ -108,7 +108,7 @@ const userData = {
   socialLinks: {
     twitter:  "https://twitter.com/DataDoc21",
     linkedin: "https://www.linkedin.com/in/kevin-o-248906155/",
-    github:   "https://github.com/KevoKoda",
+    github:   "https://github.com/kevCRUD",
     facebook: "https://www.facebook.com/kevowino22/",
     codepen:  "https://codepen.io/kevOWINO"
   },
