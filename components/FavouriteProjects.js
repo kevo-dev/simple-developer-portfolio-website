@@ -40,8 +40,8 @@ export default function FavouriteProjects() {
           >
             <div className="relative overflow-hidden">
               <img
-                src="/D32.png"
-                alt="portfolio"
+                src="/tours_and_travel.png"
+                alt="lake_photo"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
