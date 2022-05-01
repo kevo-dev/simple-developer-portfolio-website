@@ -35,7 +35,7 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
-            href="https://codepen.io/kevOWINO/pen/vYWENQo"
+            href="https://port-florence-lake-tours.vercel.app/"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
@@ -45,7 +45,7 @@ export default function FavouriteProjects() {
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                D3JS Guide
+                Tours and Travel Landing Page
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 01
@@ -65,7 +65,7 @@ export default function FavouriteProjects() {
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
               <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                Product Landing Page
+                Phot Studio Landing Page
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
                 02
