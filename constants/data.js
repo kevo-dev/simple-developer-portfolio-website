@@ -13,7 +13,7 @@ const userData = {
     description: [
       `I have been dabbling in HTML, CSS, P.H.P and Java for quite some time but I recently decided to go Fullstack `,
       `I started off with "Java-Teach Yourself in 30 Days"...in 6 months I still couldn't get it. I switched to Javascript and then Python nailed it for me.`,
-      `Now I'm coding in Python, React, Node.js, Express, MongoDB, MySQL, Bootstrap, Tailwind, to name a few.`,
+      `Now I'm coding in Python and JavaScript`,
     ],
     currentProject: "Tours and Travel Landing Page",
     currentProjectUrl: "https://port-florence-lake-tours.vercel.app/",
