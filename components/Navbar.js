@@ -200,12 +200,12 @@ export default function Navbar() {
             About
           </a>
         </Link>
-        <Link href="/projects">
+        <Link href="#">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Projects
           </a>
         </Link>
-        <Link href="/experience">
+        <Link href="/#">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Experience
           </a>
