@@ -68,7 +68,7 @@ export default function Navbar() {
               }`}
             >
               Projects
-              {router.asPath === "/projects" && (
+              {router.asPath === "/#" && (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="16"
@@ -200,7 +200,7 @@ export default function Navbar() {
             About
           </a>
         </Link>
-        <Link href="#">
+        <Link href="/#">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Projects
           </a>
