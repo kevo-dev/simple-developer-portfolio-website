@@ -18,8 +18,6 @@ const userData = {
     currentProject: "Tours and Travel Landing Page",
     currentProjectUrl: "https://port-florence-lake-tours.vercel.app/",
   },
-  resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
     twitter:  "https://twitter.com/kevCRUD",
     linkedin: "https://www.linkedin.com/in/kevin-o-248906155/",
