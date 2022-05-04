@@ -1,5 +1,5 @@
 const userData = {
-  githubUsername: "kevCRUD",
+  githubUsername: "bald-coder",
   name: "Kev Owino",
   designation: "Web Developer",
   avatarUrl: "/propic.jpeg",
@@ -19,9 +19,9 @@ const userData = {
     currentProjectUrl: "https://port-florence-lake-tours.vercel.app/",
   },
   socialLinks: {
-    twitter:  "https://twitter.com/kevCRUD",
+    twitter:  "https://twitter.com/bald-coder",
     linkedin: "https://www.linkedin.com/in/kevin-o-248906155/",
-    github:   "https://github.com/kevCRUD",
+    github:   "https://github.com/bald-coder",
     facebook: "https://www.facebook.com/kevowino22/",
     codepen:  "https://codepen.io/kevOWINO"
   },
