@@ -19,9 +19,9 @@ const userData = {
     currentProjectUrl: "https://port-florence-lake-tours.vercel.app/",
   },
   socialLinks: {
-    twitter:  "https://twitter.com/bald-coder",
+    twitter:  "https://twitter.com/_bro__code_",
     linkedin: "https://www.linkedin.com/in/kevin-o-248906155/",
-    github:   "https://github.com/bald-coder",
+    github:   "https://github.com/bro-codez",
     facebook: "https://www.facebook.com/kevowino22/",
     codepen:  "https://codepen.io/kevOWINO"
   },
